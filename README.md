@@ -1,2 +1,2 @@
-# vuejs-atlas-cooperation-portal
+# cs-vue
 Created with CodeSandbox
